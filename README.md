@@ -7,16 +7,25 @@ This is not going to work btw, lots of links are gone by now
 # What Can Be Learned From This?
 - Game Detection;
 <code>
+  
 -- Here's the simple game detection script
+
 place = game.PlaceId
+
 if place == 0 then -- Example number put the game id in there
+
 elseif place == 1 then -- You can keep repeating this until you have all your game id's in there, of course with your desired game id and not repeating the same id
+
 else
+
 print("Game not detected, please check featured games in the discord")
+
 end
+
 </code>
 - Simple Whitelist System;
-- Simple Scripting and a bit more advanced scripting
+
+- Simple Scripting and a bit more advanced scripting;
 
 Enjoy!
 
