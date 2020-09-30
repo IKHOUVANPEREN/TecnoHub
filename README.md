@@ -23,6 +23,7 @@ print("Game not detected, please check featured games in the discord")
 end
 
 </code>
+
 - Simple Whitelist System;
 
 - Simple Scripting and a bit more advanced scripting;
