@@ -5,7 +5,14 @@ TecnoHub was a script hub that I worked on for about 4-5 months, I discontinued 
 This is not going to work btw, lots of links are gone by now
 
 # What Can Be Learned From This?
+
+
+- Simple Whitelist System;
+
+- Simple Scripting and a bit more advanced scripting;
+
 - Game Detection;
+
 <code>
   
 -- Here's the simple game detection script
@@ -23,10 +30,6 @@ print("Game not detected, please check featured games in the discord")
 end
 
 </code>
-
-- Simple Whitelist System;
-
-- Simple Scripting and a bit more advanced scripting;
 
 Enjoy!
 
